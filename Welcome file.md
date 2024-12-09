@@ -118,29 +118,29 @@ $$
 
 ## UML diagrams
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
+Puedes generar diagramas UML con [ Mermaid ](https://mermaidjs.github.io/) . Por ejemplo, esto generará un diagrama de secuencia:
 
 ```
+ secuencia de sirenas Diagrama 
+Alice ->> Bob: Hola Bob, ¿cómo estás? 
+Bob-->>John: ¿Y tú John? 
+Bob--x Alice: ¡Estoy bien, gracias! 
+Bob-x John: ¡Estoy bien, gracias! 
+Nota a la derecha de John: Bob piensa durante mucho tiempo, tanto tiempo que el texto no cabe en una fila. Bob-->Alice: Estoy consultando con John... Alice->John: Sí... John, ¿cómo estás? ```
+
+
+
+
+
+Y esto producirá un diagrama de flujo:
+
+` ` `
  gráfico de sirena LR 
 A[Rectángulo cuadrado] -- Texto del enlace --> B((Círculo)) 
 A --> C(Rectángulo redondo) 
 B --> D{Rombo} 
-C --> D ```
+C --> D ` ` `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDEyOTc3OF19
+eyJoaXN0b3J5IjpbLTU0NTI2NTc5NF19
 -->
