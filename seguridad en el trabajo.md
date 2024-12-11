@@ -64,7 +64,7 @@ Alternar tareas para reducir la monotonía y la carga postural.</p>
 <li><strong>Ejercicios recomendados:</strong></li>
 </ol>
 <p>Inclinar el cuello hacia los lados y girarlo suavemente. Estiramientos de brazos y piernas.</p>
-<p><img src="https://www.preving.com/media/ofinia1.jpg" alt="Recomendaciones para puestos en PVD"></p>
+<p><img src="https://www.preving.com/media/ofinia1.jpg" alt=""></p>
 <h2 id="referencias">Referencias</h2>
 <blockquote>
 <p><strong>Autor:</strong> Jiménez Ruiz, JA (2024).<br>
