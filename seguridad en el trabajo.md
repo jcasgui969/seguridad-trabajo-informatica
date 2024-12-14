@@ -57,7 +57,7 @@ Alternar tareas para reducir la monotonía y la carga postural.</p>
 <li><strong>Ergonomía en el puesto de trabajo:</strong></li>
 </ol>
 <p>Mantenga los pies apoyados en el suelo o reposapiés. Coloque la pantalla a nivel de los ojos y preferentemente con luz natural. Ubicar la pantalla a <strong>40-60 cm</strong> de los ojos, con el borde superior al nivel de estos. Ajustar el teclado y el ratón próximos y alineados con el monitor. Descansar cada cierto tiempo para evitar la tensión ocular.</p>
-<p><img src="https://static.wixstatic.com/media/41b7e5_b97f4b6152304029b883d8cbcbf25ae7~mv2.jpg/v1/fill/w_658,h_378,al_c,lg_1,q_80/41b7e5_b97f4b6152304029b883d8cbcbf25ae7~mv2.jpg" alt="La importancia de la ergonomía en el puesto de trabajo"></p>
+<p><img src="https://media.istockphoto.com/id/1066495004/es/vector/ergonom%C3%ADa-postura-sentada-correctas-e-incorrectas-al-usar-una-computadora.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=vqvZnztxZnTc-6ZALUjthkz8IchXO4y4sh_Vq4MBuHk=" alt="100  Ergonomía Buena Postura Para Sentarse Y De Trabajo En El Escritorio De Oficina Fotografías de stock, fotos e imágenes libres de derechos - iStock"></p>
 <h2 id="recomendaciones-visuales-y-posturales">Recomendaciones visuales y posturales</h2>
 <ol>
 <li><strong>Imágenes</strong></li>
@@ -84,7 +84,7 @@ Imágenes extraídas de <strong>google</strong> :<br>
 <a href="https://prevencontrol.com/wp-content/uploads/2023/10/seguridad-laboral.jpg">https://prevencontrol.com/wp-content/uploads/2023/10/seguridad-laboral.jpg</a></p>
 <p><a href="https://mexico.unir.net/wp-content/uploads/sites/6/2022/11/los-empresarios-que-se-sobresentan-en-la-oficina-la-persona-agotada-y-cansada-que-trabaja.jpg_s1024x1024wisk20cbV9TV0KygToPPjLzvAL7dbfnvDoleQMsxUxOUVlFVlM.jpg">https://mexico.unir.net/wp-content/uploads/sites/6/2022/11/los-empresarios-que-se-sobresentan-en-la-oficina-la-persona-agotada-y-cansada-que-trabaja.jpg_s1024x1024wisk20cbV9TV0KygToPPjLzvAL7dbfnvDoleQMsxUxOUVlFVlM.jpg</a></p>
 <p><a href="https://temariosoficiales.com/wp-content/uploads/2024/09/icono_PRL.png">https://temariosoficiales.com/wp-content/uploads/2024/09/icono_PRL.png</a></p>
-<p><a href="https://static.wixstatic.com/media/41b7e5_b97f4b6152304029b883d8cbcbf25ae7">https://static.wixstatic.com/media/41b7e5_b97f4b6152304029b883d8cbcbf25ae7</a><sub>mv2.jpg/v1/fill/w_658,h_378,al_c,lg_1,q_80/41b7e5_b97f4b6152304029b883d8cbcbf25ae7</sub>mv2.jpg</p>
+<p><a href="https://media.istockphoto.com/id/1066495004/es/vector/ergonom%C3%ADa-postura-sentada-correctas-e-incorrectas-al-usar-una-computadora.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=vqvZnztxZnTc-6ZALUjthkz8IchXO4y4sh_Vq4MBuHk=">https://media.istockphoto.com/id/1066495004/es/vector/ergonomía-postura-sentada-correctas-e-incorrectas-al-usar-una-computadora.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=vqvZnztxZnTc-6ZALUjthkz8IchXO4y4sh_Vq4MBuHk=</a></p>
 <p><a href="https://www.preving.com/media/ofinia1.jpg">https://www.preving.com/media/ofinia1.jpg</a></p>
 </blockquote>
 <h3 id="javier-castelló-guitarte">Javier Castelló Guitarte</h3>
