@@ -5,7 +5,14 @@
 
 <h1 id="seguridad-en-el-trabajo">Seguridad en el trabajo</h1>
 <p><img src="https://prevencontrol.com/wp-content/uploads/2023/10/seguridad-laboral.jpg" alt="Seguridad Laboral - Definición, Tipos, Métodos y Estrategias"></p>
+<h2 id="índice">Índice</h2>
+<p><a href="#1.Introducci%C3%B3n">1.Introducción</a></p>
+<p><a href="#2.Riesgos-laborales-m%C3%A1s-comunes-en-inform%C3%A1tica">2.Riesgos laborales más comunes en informática</a></p>
+<p><a href="#3.Prevenci%C3%B3n-de-riesgos">3.Prevención de riesgos</a></p>
+<p><a href="#4.Recomendaciones-visuales-y-posturales">4.Recomendaciones visuales y posturales</a></p>
+<p><a href="#5.Referencias">5.Referencias</a></p>
 <h1 id="riesgos-laborales-y-prevención-de-riesgos-en-el-ámbito-informático">Riesgos laborales y prevención de riesgos en el ámbito informático</h1>
+<h2 id="introducción">Introducción</h2>
 <p>En el entorno laboral relacionado con la informática, es común encontrarse con factores de riesgo asociados a las tareas realizadas, como el uso prolongado de computadoras o la manipulación de equipos electrónicos.<br>
 Este documento trata los riesgos laborales y las estrategias para prevenirlos desde una perspectiva técnica y ergonómica.</p>
 <h2 id="riesgos-laborales-más-comunes-en-informática">Riesgos laborales más comunes en informática</h2>
